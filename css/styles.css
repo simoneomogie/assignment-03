@@ -1,0 +1,26 @@
+  /** colours *
+  --lt-seafoam-green: #ecf9f6;
+  --seafoam-green:    #43C6AC;
+  --lt-blue:          #1cb5e0;
+  --md-blue:          #191654;
+  --dk-blue:          #0C0B2A;
+*/
+
+  /** typography *
+  -- note: all fonts come from Google Fonts
+  --headings:'Monoton', cursive;
+  --body: 'Rubik', sans-serif;
+  */
+
+  /** Notes: 
+  Form Validation:
+  -- how you choose to do your form validation is up to you. You have been supplied with a check and x marks (svgs) to use. Optional fields means that they are not required.
+
+  Images: 
+  -- All svgs supplied (see folder)
+  -- All full size images supplied but images can also be pulled from the PSD.
+
+  PSD to Completed View: 
+  -- in the completed view you'll notice a border around the subscribe form in the footer - this is valid state (style it how looks in the PSD).
+  -- The hamburger menu changes on open and closed states - this NOT something that needs to be completed - this would be extra/additional learning.
+  **/
